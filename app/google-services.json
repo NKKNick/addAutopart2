@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275507569956",
+    "firebase_url": "https://kuay-b5f69-default-rtdb.firebaseio.com",
+    "project_id": "kuay-b5f69",
+    "storage_bucket": "kuay-b5f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275507569956:android:eb93dc9de7336b34e2ffb1",
+        "android_client_info": {
+          "package_name": "com.example.addautopart1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275507569956-vv0rk5ivre0grgvn1niaeivmcud7ih5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqTrU_DP9Tbn4WYutW5F0fncJcTaEcfXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275507569956-vv0rk5ivre0grgvn1niaeivmcud7ih5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
